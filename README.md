@@ -1,3 +1,4 @@
 # otaku-dev
 
-my first respository
+This is a copy of repository
+
